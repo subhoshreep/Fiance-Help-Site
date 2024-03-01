@@ -12,7 +12,7 @@ The Finance Help Site is a comprehensive financial services website offering sol
 
 - **Service Details:** In-depth information on Home Loan Assistance, Insurance Solutions, Investment Options, and more.
 
-- **Team Section:** Meet the dedicated team, including Chartered Financial Analyst Pankaj Kumar Ray.
+- **Team Section:** Meet the dedicated team.
 
 - **Blog Section:** Stay informed with blog topics like Mutual Funds 101 and Stock Market India.
 
